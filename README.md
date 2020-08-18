@@ -1,8 +1,8 @@
-#SocketApp
+## SocketApp
 
 Simple socket client and server app to sending simple text messages over network. 
 
-# Use
+## Use
 
 Run server app
 Run client app
